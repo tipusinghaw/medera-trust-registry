@@ -1,5 +1,5 @@
 # TrustRegistry Smart Contract
-
+![Medera Logo](./assets/medera.png) 
 ## Overview
 The `TrustRegistry` is a smart contract that provides functionality for managing a registry of Hedera DIDs (Decentralized Identifiers) and their associated resources. Resources can include schemas, URLs, or other relevant metadata. The contract enables adding, removing, and retrieving resources linked to specific DIDs while maintaining an organized list of all DIDs.
 
@@ -108,3 +108,6 @@ trustRegistry.clearResources("did:hedera:12345");
 ## Security Considerations
 - Ensure that only authorized users interact with the contract.
 - Validate input data to prevent malicious data injection.
+### Thank you,
+
+![Hedera Logo](./assets/hedera.png)
